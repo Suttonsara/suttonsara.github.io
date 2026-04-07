@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://drakeseterao.github.io/suttonsara.github.io/sitemap.xml
+Sitemap: https://suttonsara.github.io/sitemap.xml
